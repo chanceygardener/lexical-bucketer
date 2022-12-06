@@ -1,0 +1,32 @@
+{
+	"angry": [
+		"yelled in my face",
+		"shouted at me",
+		"screamed",
+		"reprimand",
+		"tirade",
+		"wrote a furious message"
+	],
+	"confused": [
+		"cryptic message",
+		"babbled",
+		"mumbled",
+		"wrote in code",
+		"unknown",
+		"spoke in morse code",
+		"spoke in binary",
+		"speaking in assembly language",
+		"incomprehensible",
+		"incoherent",
+		"confusing"
+	],
+	"happy": [
+		"beamed",
+		"sucked up to",
+		"complimented greatly",
+		"politely",
+		"honorable",
+		"threw him a party",
+		"celebrated"
+	]
+}

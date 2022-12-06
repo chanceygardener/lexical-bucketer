@@ -1,0 +1,42 @@
+{
+	"attacking_creature_is_threatening": [
+		"monster",
+		"gremlin",
+		"dragon",
+		"snake",
+		"giant",
+		"cyclops",
+		"harpie",
+		"siren",
+		"destroyer of worlds",
+		"firebreathing dragon",
+		"lion",
+		"vicious",
+		"tiger",
+		"wolf",
+		"bear",
+		"devil",
+		"satan",
+		"orc",
+		"goblin",
+		"predator"
+	],
+	"attacking_creature_is_not_threatening": [
+		"puppy",
+		"cat",
+		"cute bunny",
+		"bunny",
+		"adorable",
+		"fawn",
+		"elf",
+		"fairy",
+		"pixie",
+		"chick",
+		"baby chicken",
+		"cow",
+		"pig",
+		"piglet",
+		"fawn",
+		"harmless"
+	]
+}

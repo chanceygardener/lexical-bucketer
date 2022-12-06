@@ -1,0 +1,103 @@
+{
+	"politician": [
+		"mayor",
+		"president",
+		"caesar",
+		"queen",
+		"king",
+		"governor",
+		"government",
+		"senator",
+		"senate",
+		"congress",
+		"parliament",
+		"bureaucrat"
+	],
+	"scientist": [
+		"doctor",
+		"researcher",
+		"research",
+		"engineer",
+		"study",
+		"PhD",
+		"student",
+		"academia",
+		"academic",
+		"science",
+		"scientist"
+	],
+	"athlete": [
+		"boxer",
+		"football player",
+		"sports",
+		"compete",
+		"athlete",
+		"compete",
+		"champion",
+		"wrestler",
+		"basketball",
+		"soccer"
+	],
+	"animal": [
+		"zoo",
+		"gorilla",
+		"giraffe",
+		"horse",
+		"cow",
+		"safari",
+		"wildlife",
+		"rabbit",
+		"deer",
+		"lizard"
+	],
+	"wealthy": [
+		"net worth",
+		"wealth",
+		"wealthy",
+		"gold",
+		"investor",
+		"investment",
+		"banker",
+		"CEO"
+	],
+	"worker": [
+		"laborer",
+		"iron",
+		"steel",
+		"factory",
+		"labor",
+		"union",
+		"serf",
+		"working class"
+	],
+	"celebrity": [
+		"rock star",
+		"hollywood",
+		"actor",
+		"emmy",
+		"television",
+		"movie",
+		"film",
+		"musician",
+		"famous",
+		"fame",
+		"celebrity",
+		"tabloid"
+	],
+	"inanimate": [
+		"rock",
+		"inanimate",
+		"solid",
+		"appliance",
+		"table"
+	],
+	"vegetable": [
+		"carrot",
+		"pepper",
+		"lettuce",
+		"tomato",
+		"potato",
+		"spinach",
+		"parsnip"
+	]
+}

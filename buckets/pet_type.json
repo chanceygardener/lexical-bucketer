@@ -1,0 +1,24 @@
+{
+	"type_dangerous": [
+		"monster",
+		"chimera",
+		"rhinoceros",
+		"lion",
+		"tiger"
+	],
+	"type_cute": [
+		"bunny",
+		"rabbit",
+		"dog",
+		"cat",
+		"hamster"
+	],
+	"type_unusual": [
+		"shrimp",
+		"crustacean",
+		"eel",
+		"ant",
+		"pangolin",
+		"marmoset"
+	]
+}

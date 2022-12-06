@@ -1,0 +1,19 @@
+{
+	"viableWeapon": [
+		"gun",
+		"stick",
+		"rock",
+		"rope",
+		"pistol",
+		"ak47",
+		"a tank",
+		"knife"
+	],
+	"nonViableWeapon": [
+		"sponge",
+		"apple",
+		"puppy",
+		"cake"
+
+	]
+}
